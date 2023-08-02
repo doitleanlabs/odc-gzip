@@ -1,0 +1,4 @@
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\bin\Release\net6.0\linux-x64\publish\DoiTLean.Gzip.dll
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\bin\Release\net6.0\linux-x64\publish\DoiTLean.Gzip.deps.json
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\bin\Release\net6.0\linux-x64\publish\DoiTLean.Gzip.pdb
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\bin\Release\net6.0\linux-x64\publish\OutSystems.ExternalLibraries.SDK.dll

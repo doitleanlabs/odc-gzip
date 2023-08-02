@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <PlatformTarget>AnyCPU</PlatformTarget>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <EmbeddedResource Include="resources/gzip.png" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="OutSystems.ExternalLibraries.SDK" Version="1.3.2" />
+    </ItemGroup>
+</Project>

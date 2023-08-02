@@ -1,0 +1,12 @@
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\bin\Release\net6.0\linux-x64\DoiTLean.Gzip.deps.json
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\bin\Release\net6.0\linux-x64\DoiTLean.Gzip.dll
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\bin\Release\net6.0\linux-x64\DoiTLean.Gzip.pdb
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\obj\Release\net6.0\linux-x64\DoiTLean.Gzip.csproj.AssemblyReference.cache
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\obj\Release\net6.0\linux-x64\DoiTLean.Gzip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\obj\Release\net6.0\linux-x64\DoiTLean.Gzip.AssemblyInfoInputs.cache
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\obj\Release\net6.0\linux-x64\DoiTLean.Gzip.AssemblyInfo.cs
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\obj\Release\net6.0\linux-x64\DoiTLean.Gzip.csproj.CoreCompileInputs.cache
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\obj\Release\net6.0\linux-x64\DoiTLean.Gzip.dll
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\obj\Release\net6.0\linux-x64\refint\DoiTLean.Gzip.dll
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\obj\Release\net6.0\linux-x64\DoiTLean.Gzip.pdb
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\obj\Release\net6.0\linux-x64\ref\DoiTLean.Gzip.dll

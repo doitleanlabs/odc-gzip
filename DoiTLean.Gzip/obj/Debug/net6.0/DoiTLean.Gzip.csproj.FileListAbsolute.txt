@@ -1,0 +1,12 @@
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\obj\Debug\net6.0\DoiTLean.Gzip.csproj.AssemblyReference.cache
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\obj\Debug\net6.0\DoiTLean.Gzip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\obj\Debug\net6.0\DoiTLean.Gzip.AssemblyInfoInputs.cache
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\obj\Debug\net6.0\DoiTLean.Gzip.AssemblyInfo.cs
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\obj\Debug\net6.0\DoiTLean.Gzip.csproj.CoreCompileInputs.cache
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\bin\Debug\net6.0\DoiTLean.Gzip.deps.json
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\bin\Debug\net6.0\DoiTLean.Gzip.dll
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\bin\Debug\net6.0\DoiTLean.Gzip.pdb
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\obj\Debug\net6.0\DoiTLean.Gzip.dll
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\obj\Debug\net6.0\refint\DoiTLean.Gzip.dll
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\obj\Debug\net6.0\DoiTLean.Gzip.pdb
+C:\Users\fabio.fantato.DOITLEAN\Downloads\odc\Gzip\DoiTLean.Gzip\obj\Debug\net6.0\ref\DoiTLean.Gzip.dll
