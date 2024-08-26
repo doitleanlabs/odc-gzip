@@ -1,0 +1,13 @@
+C:\Repo\odc-gzip\DoiTLean.Gzip\bin\Release\net8.0\linux-x64\DoiTLean.Gzip.deps.json
+C:\Repo\odc-gzip\DoiTLean.Gzip\bin\Release\net8.0\linux-x64\DoiTLean.Gzip.dll
+C:\Repo\odc-gzip\DoiTLean.Gzip\bin\Release\net8.0\linux-x64\DoiTLean.Gzip.pdb
+C:\Repo\odc-gzip\DoiTLean.Gzip\obj\Release\net8.0\linux-x64\DoiTLean.Gzip.csproj.AssemblyReference.cache
+C:\Repo\odc-gzip\DoiTLean.Gzip\obj\Release\net8.0\linux-x64\DoiTLean.Gzip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\odc-gzip\DoiTLean.Gzip\obj\Release\net8.0\linux-x64\DoiTLean.Gzip.AssemblyInfoInputs.cache
+C:\Repo\odc-gzip\DoiTLean.Gzip\obj\Release\net8.0\linux-x64\DoiTLean.Gzip.AssemblyInfo.cs
+C:\Repo\odc-gzip\DoiTLean.Gzip\obj\Release\net8.0\linux-x64\DoiTLean.Gzip.csproj.CoreCompileInputs.cache
+C:\Repo\odc-gzip\DoiTLean.Gzip\obj\Release\net8.0\linux-x64\DoiTLean.Gzip.sourcelink.json
+C:\Repo\odc-gzip\DoiTLean.Gzip\obj\Release\net8.0\linux-x64\DoiTLean.Gzip.dll
+C:\Repo\odc-gzip\DoiTLean.Gzip\obj\Release\net8.0\linux-x64\refint\DoiTLean.Gzip.dll
+C:\Repo\odc-gzip\DoiTLean.Gzip\obj\Release\net8.0\linux-x64\DoiTLean.Gzip.pdb
+C:\Repo\odc-gzip\DoiTLean.Gzip\obj\Release\net8.0\linux-x64\ref\DoiTLean.Gzip.dll

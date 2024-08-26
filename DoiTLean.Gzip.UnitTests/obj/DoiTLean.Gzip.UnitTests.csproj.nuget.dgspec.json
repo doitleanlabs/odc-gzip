@@ -1,35 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fabio.fantato.DOITLEAN\\Downloads\\odc\\Gzip\\DoiTLean.Gzip.UnitTests\\DoiTLean.Gzip.UnitTests.csproj": {}
+    "C:\\Repo\\odc-gzip\\DoiTLean.Gzip.UnitTests\\DoiTLean.Gzip.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fabio.fantato.DOITLEAN\\Downloads\\odc\\Gzip\\DoiTLean.Gzip.UnitTests\\DoiTLean.Gzip.UnitTests.csproj": {
+    "C:\\Repo\\odc-gzip\\DoiTLean.Gzip.UnitTests\\DoiTLean.Gzip.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabio.fantato.DOITLEAN\\Downloads\\odc\\Gzip\\DoiTLean.Gzip.UnitTests\\DoiTLean.Gzip.UnitTests.csproj",
+        "projectUniqueName": "C:\\Repo\\odc-gzip\\DoiTLean.Gzip.UnitTests\\DoiTLean.Gzip.UnitTests.csproj",
         "projectName": "DoiTLean.Gzip.UnitTests",
-        "projectPath": "C:\\Users\\fabio.fantato.DOITLEAN\\Downloads\\odc\\Gzip\\DoiTLean.Gzip.UnitTests\\DoiTLean.Gzip.UnitTests.csproj",
-        "packagesPath": "C:\\Users\\fabio.fantato.DOITLEAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabio.fantato.DOITLEAN\\Downloads\\odc\\Gzip\\DoiTLean.Gzip.UnitTests\\obj\\",
+        "projectPath": "C:\\Repo\\odc-gzip\\DoiTLean.Gzip.UnitTests\\DoiTLean.Gzip.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\fabio.fantato\\.nuget\\packages\\",
+        "outputPath": "C:\\Repo\\odc-gzip\\DoiTLean.Gzip.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fabio.fantato.DOITLEAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fabio.fantato\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\fabio.fantato.DOITLEAN\\Downloads\\odc\\Gzip\\DoiTLean.Gzip\\DoiTLean.Gzip.csproj": {
-                "projectPath": "C:\\Users\\fabio.fantato.DOITLEAN\\Downloads\\odc\\Gzip\\DoiTLean.Gzip\\DoiTLean.Gzip.csproj"
+              "C:\\Repo\\odc-gzip\\DoiTLean.Gzip\\DoiTLean.Gzip.csproj": {
+                "projectPath": "C:\\Repo\\odc-gzip\\DoiTLean.Gzip\\DoiTLean.Gzip.csproj"
               }
             }
           }
@@ -38,11 +38,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -69,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -78,29 +83,29 @@
         }
       }
     },
-    "C:\\Users\\fabio.fantato.DOITLEAN\\Downloads\\odc\\Gzip\\DoiTLean.Gzip\\DoiTLean.Gzip.csproj": {
+    "C:\\Repo\\odc-gzip\\DoiTLean.Gzip\\DoiTLean.Gzip.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabio.fantato.DOITLEAN\\Downloads\\odc\\Gzip\\DoiTLean.Gzip\\DoiTLean.Gzip.csproj",
+        "projectUniqueName": "C:\\Repo\\odc-gzip\\DoiTLean.Gzip\\DoiTLean.Gzip.csproj",
         "projectName": "DoiTLean.Gzip",
-        "projectPath": "C:\\Users\\fabio.fantato.DOITLEAN\\Downloads\\odc\\Gzip\\DoiTLean.Gzip\\DoiTLean.Gzip.csproj",
-        "packagesPath": "C:\\Users\\fabio.fantato.DOITLEAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabio.fantato.DOITLEAN\\Downloads\\odc\\Gzip\\DoiTLean.Gzip\\obj\\",
+        "projectPath": "C:\\Repo\\odc-gzip\\DoiTLean.Gzip\\DoiTLean.Gzip.csproj",
+        "packagesPath": "C:\\Users\\fabio.fantato\\.nuget\\packages\\",
+        "outputPath": "C:\\Repo\\odc-gzip\\DoiTLean.Gzip\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fabio.fantato.DOITLEAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fabio.fantato\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -108,15 +113,20 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "OutSystems.ExternalLibraries.SDK": {
               "target": "Package",
-              "version": "[1.3.2, )"
+              "version": "[1.4.0, )"
             }
           },
           "imports": [
@@ -135,7 +145,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

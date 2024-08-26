@@ -1,0 +1,13 @@
+C:\Repo\odc-gzip\DoiTLean.Gzip\bin\Debug\net8.0\DoiTLean.Gzip.deps.json
+C:\Repo\odc-gzip\DoiTLean.Gzip\bin\Debug\net8.0\DoiTLean.Gzip.dll
+C:\Repo\odc-gzip\DoiTLean.Gzip\bin\Debug\net8.0\DoiTLean.Gzip.pdb
+C:\Repo\odc-gzip\DoiTLean.Gzip\obj\Debug\net8.0\DoiTLean.Gzip.csproj.AssemblyReference.cache
+C:\Repo\odc-gzip\DoiTLean.Gzip\obj\Debug\net8.0\DoiTLean.Gzip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\odc-gzip\DoiTLean.Gzip\obj\Debug\net8.0\DoiTLean.Gzip.AssemblyInfoInputs.cache
+C:\Repo\odc-gzip\DoiTLean.Gzip\obj\Debug\net8.0\DoiTLean.Gzip.AssemblyInfo.cs
+C:\Repo\odc-gzip\DoiTLean.Gzip\obj\Debug\net8.0\DoiTLean.Gzip.csproj.CoreCompileInputs.cache
+C:\Repo\odc-gzip\DoiTLean.Gzip\obj\Debug\net8.0\DoiTLean.Gzip.sourcelink.json
+C:\Repo\odc-gzip\DoiTLean.Gzip\obj\Debug\net8.0\DoiTLean.Gzip.dll
+C:\Repo\odc-gzip\DoiTLean.Gzip\obj\Debug\net8.0\refint\DoiTLean.Gzip.dll
+C:\Repo\odc-gzip\DoiTLean.Gzip\obj\Debug\net8.0\DoiTLean.Gzip.pdb
+C:\Repo\odc-gzip\DoiTLean.Gzip\obj\Debug\net8.0\ref\DoiTLean.Gzip.dll
