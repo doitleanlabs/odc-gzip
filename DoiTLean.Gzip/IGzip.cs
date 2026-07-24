@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-using System.IO;
-using System.Threading.Tasks;
+﻿using System;
 using OutSystems.ExternalLibraries.SDK;
 
 namespace DoiTLean.Gzip
@@ -27,11 +25,22 @@ namespace DoiTLean.Gzip
 
 
         /// <summary>
-        /// Binary expand method
+        /// Deprecated: misspelled alias of <see cref="GZip_BinaryExpand"/>, kept so existing OutSystems
+        /// consumers that already reference this action name keep working. New consumers should use
+        /// GZip_BinaryExpand instead.
         /// </summary>
         /// <param name="InBinary"></param>
-        [OSAction(Description = "Binary expand method", IconResourceName = "DoiTLean.Gzip.resources.gzip.png", ReturnName = "OutText")]
+        [Obsolete("Use GZip_BinaryExpand instead. Kept for backward compatibility with existing OutSystems consumers.")]
+        [OSAction(Description = "[Deprecated - use GZip_BinaryExpand] Binary expand method.", IconResourceName = "DoiTLean.Gzip.resources.gzip.png", ReturnName = "OutText")]
         string GZip_BinayExpand(
+            byte[] InBinary);
+
+        /// <summary>
+        /// Decompress a gzip-compressed binary and return the original string.
+        /// </summary>
+        /// <param name="InBinary"></param>
+        [OSAction(Description = "Decompress a gzip-compressed binary and return the original string.", IconResourceName = "DoiTLean.Gzip.resources.gzip.png", ReturnName = "OutText")]
+        string GZip_BinaryExpand(
             byte[] InBinary);
     }
 

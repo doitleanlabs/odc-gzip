@@ -1,4 +1,0 @@
-C:\Repo\odc-gzip\DoiTLean.Gzip\bin\Release\net8.0\linux-x64\publish\DoiTLean.Gzip.dll
-C:\Repo\odc-gzip\DoiTLean.Gzip\bin\Release\net8.0\linux-x64\publish\DoiTLean.Gzip.deps.json
-C:\Repo\odc-gzip\DoiTLean.Gzip\bin\Release\net8.0\linux-x64\publish\DoiTLean.Gzip.pdb
-C:\Repo\odc-gzip\DoiTLean.Gzip\bin\Release\net8.0\linux-x64\publish\OutSystems.ExternalLibraries.SDK.dll

@@ -1,0 +1,13 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+
+# Packaging output
+Dist/
+
+# Rider / VS Code
+.idea/
+*.user

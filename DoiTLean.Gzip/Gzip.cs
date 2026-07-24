@@ -1,7 +1,6 @@
 ﻿using System;
 using System.IO;
 using System.IO.Compression;
-using System.Threading.Tasks;
 
 namespace DoiTLean.Gzip
 {
@@ -10,40 +9,55 @@ namespace DoiTLean.Gzip
 
         public byte[] GZip_StringCompress(string InText)
         {
-            byte[] OutBinary;
-            byte[] buffer = null;
-            byte[] compressedData = null;
-            MemoryStream oMemoryStream = null;
-            System.IO.Compression.GZipStream compressedzipStream = null;
-            oMemoryStream = new MemoryStream();
-            buffer = System.Text.Encoding.UTF8.GetBytes(InText);
-            compressedzipStream = new System.IO.Compression.GZipStream(oMemoryStream, System.IO.Compression.CompressionMode.Compress, true);
-            compressedzipStream.Write(buffer, 0, buffer.Length);
-            compressedzipStream.Dispose();
-            compressedzipStream.Close();
-            compressedData = oMemoryStream.ToArray();
-            oMemoryStream.Close();
-            OutBinary = compressedData;
-            return OutBinary;
+            if (InText is null)
+            {
+                throw new ArgumentException("InText must not be null.", nameof(InText));
+            }
 
+            var buffer = System.Text.Encoding.UTF8.GetBytes(InText);
+
+            // GZipStream must be disposed (flushes the trailer) before reading the memory stream back out,
+            // so the write and the ToArray() cannot share the same using block.
+            using var oMemoryStream = new MemoryStream();
+            using (var compressedzipStream = new GZipStream(oMemoryStream, CompressionMode.Compress, true))
+            {
+                compressedzipStream.Write(buffer, 0, buffer.Length);
+            }
+
+            return oMemoryStream.ToArray();
         }// StringCompress
 
 
+        /// <summary>
+        /// Deprecated: kept only for backward compatibility with existing OutSystems consumers that already
+        /// reference this action name. New consumers should use <see cref="GZip_BinaryExpand"/>.
+        /// </summary>
+        [Obsolete("Use GZip_BinaryExpand instead. Kept for backward compatibility with existing OutSystems consumers.")]
         public string GZip_BinayExpand(byte[] InBinary)
         {
-            string OutText = "";
-            byte[] inputBytes = InBinary;
+            return GZip_BinaryExpand(InBinary);
+        }// BinayExpand (deprecated wrapper, kept for compatibility)
 
-            using (var inputStream = new MemoryStream(inputBytes))
-            using (var gZipStream = new GZipStream(inputStream, CompressionMode.Decompress))
-            using (var streamReader = new StreamReader(gZipStream))
+
+        public string GZip_BinaryExpand(byte[] InBinary)
+        {
+            if (InBinary is null)
             {
-                OutText = streamReader.ReadToEnd();
+                throw new ArgumentException("InBinary must not be null.", nameof(InBinary));
+            }
 
-            }// Output
-            return OutText;
-        }// BinayExpan
-
+            try
+            {
+                using var inputStream = new MemoryStream(InBinary);
+                using var gZipStream = new GZipStream(inputStream, CompressionMode.Decompress);
+                using var streamReader = new StreamReader(gZipStream);
+                return streamReader.ReadToEnd();
+            }
+            catch (InvalidDataException ex)
+            {
+                throw new ArgumentException("InBinary is not a valid gzip-compressed payload.", nameof(InBinary), ex);
+            }
+        }// BinaryExpand
 
     }
 }
